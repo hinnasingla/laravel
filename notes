@@ -1,0 +1,26 @@
+1. Diff between uclean|chemdry|white tiger
+2. Get flow diagram for white tiger development - ZOMATO APP
+3. Mean while will start understanding the code
+4. Install laravel and understand
+
+apt-get install -y php-openssl php-PDO php-tokenizer php-libxml
+
+White tiger -> Per piece, premium laundry, Turn around time will be high
+Uclean -> Per kg, Turn around time -> can be less
+
+
+Actionable
+1. Vipin for workshop module | inventory module
+2. Understand the code, 
+3. mockups
+
+
+Uclean backend laravel
+
+1. Static website -> responsive website
+2. Or
+
+
+Basic -> Static Website -> Coming Soon 
+Angular 
+-> Order Creating
