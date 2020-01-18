@@ -1,4 +1,5 @@
-{!! Form::open(['action' => 'MatchOddController@store', 'method' => 'POST']) !!}
+<form method="POST" action="/match_odd" accept-charset="UTF-8">
+    @csrf
     {{Form::text('match_id', $match->id , ['placeholder'=>'Match ID', 'class'=>'d-none'])}}
 
     <div class="form-row">
@@ -21,4 +22,4 @@
             {{Form::submit('Update Odds', ['class'=>'btn btn-primary mt-2'])}}
         </div>
     </div>
-{!! Form::close() !!}
+</form>
